@@ -1,6 +1,6 @@
 let answer = window.prompt ('Do you head left or right?')
 
-if (answer == ' left'){
+if (answer == 'left'){
 
 
      let answer = window.prompt ('You come across a stray cat. It scampers off down a small hole just large enough for you to crawl through. Do you follow it or continue on your path?')
